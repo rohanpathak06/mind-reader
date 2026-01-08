@@ -1,2 +1,3 @@
-mind reader that reads your mind (of using maths)
+mind reader that reads your mind (ofc using maths)
+
 
