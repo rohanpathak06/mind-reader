@@ -1,0 +1,31 @@
+body {
+  background: radial-gradient(circle, #0f2027, #203a43, #2c5364);
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.container {
+  width: 400px;
+  margin: 50px auto;
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+#symbols {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 15px 0;
+}
+
+.symbol {
+  padding: 5px;
+}
